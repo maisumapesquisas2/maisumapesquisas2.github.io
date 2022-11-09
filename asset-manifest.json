@@ -1,7 +1,7 @@
 {
-  "main.css": "/static/css/main.02ba4f1c.chunk.css",
-  "main.js": "/static/js/main.edce84fe.chunk.js",
-  "main.js.map": "/static/js/main.edce84fe.chunk.js.map",
+  "main.css": "/static/css/main.b6e5ad89.chunk.css",
+  "main.js": "/static/js/main.beccf043.chunk.js",
+  "main.js.map": "/static/js/main.beccf043.chunk.js.map",
   "static/js/1.c9a75c33.chunk.js": "/static/js/1.c9a75c33.chunk.js",
   "static/js/1.c9a75c33.chunk.js.map": "/static/js/1.c9a75c33.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
@@ -10,9 +10,9 @@
   "static/media/favicon.ico": "/static/media/favicon.f3418a44.ico",
   "static/media/favicon_apple.png": "/static/media/favicon_apple.4d9b7e1b.png",
   "static/media/apple_intro.png": "/static/media/apple_intro.4e9b5038.png",
-  "static/media/style.css": "/static/media/SFPRODISPLAYREGULAR.aaeac71d.OTF",
-  "static/css/main.02ba4f1c.chunk.css.map": "/static/css/main.02ba4f1c.chunk.css.map",
+  "static/media/style.css": "/static/media/SFPRODISPLAYBOLD.644563f4.OTF",
+  "static/css/main.b6e5ad89.chunk.css.map": "/static/css/main.b6e5ad89.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.856ebd1fffbe873389f4b85648a25969.js": "/precache-manifest.856ebd1fffbe873389f4b85648a25969.js",
+  "precache-manifest.ce4c935919e5a8c74e233cbe975b52bf.js": "/precache-manifest.ce4c935919e5a8c74e233cbe975b52bf.js",
   "service-worker.js": "/service-worker.js"
 }
